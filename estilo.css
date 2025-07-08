@@ -1,0 +1,164 @@
+body{background-color: rgb(198, 255, 236);}
+
+.foto1
+{
+width: 100%;
+height: 300px;
+object-fit: cover;
+display: block;
+border: 5px;
+}
+
+.nome
+{
+position: absolute;
+font-family: fantasy;
+bottom: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+color: rgb(0, 0, 0);
+background-color: rgb(189, 89, 255);
+font-size: 34px;
+}
+
+.bio1
+{
+text-align: justify;
+font-family: fantasy;
+color: rgb(0, 0, 0);
+background-color: rgb(202, 146, 255);
+font-size: 35px;
+}
+
+.lista
+{
+line-height: 3;
+font-family: fantasy;
+color: rgb(0, 0, 0);
+background-color: rgb(236, 161, 255);
+font-size: 20px;
+border: 10px; 
+}
+
+.foto3
+{
+width: 100%;
+height: 350px;
+object-fit: cover;
+display: block;
+border: 5px;
+border-radius: 20px;
+}
+
+.tabela
+{
+border-style: double;
+background-color: rgb(255, 0, 128);
+}
+
+.paises
+{
+font-family: fantasy;
+color: rgb(0, 0, 0);
+background-color: rgb(236, 161, 255);
+font-size: 50px;
+border: 10px; 
+}
+
+.EUA
+{
+width: 100%;
+height: 1252px X 599px;
+border: 5px;
+border-radius: 20px; 
+}
+
+.CANADA
+{
+width: 100%;
+height: 1252px X 599px;
+border: 5px;
+border-radius: 20px; 
+}
+
+.ALEMANHA
+{
+width: 100%;
+height: 1252px X 599px;
+border: 5px;
+border-radius: 20px;  
+}
+
+.eual
+{
+font-family: fantasy;
+color: rgb(0, 0, 0);
+background-color: rgb(232, 183, 247);
+font-size: 20px;
+}
+
+.canadal
+{
+font-family: fantasy;
+color: rgb(0, 0, 0);
+background-color: rgb(232, 183, 247);
+font-size: 20px;
+}
+
+.alemanhal
+{
+font-family: fantasy;
+color: rgb(0, 0, 0);
+background-color: rgb(232, 183, 247);
+font-size: 20px;
+}
+
+.link
+{
+ font-family: fantasy;
+text-align: justify;
+color: rgb(0, 0, 0);
+background-color: rgb(232, 183, 247);
+font-size: 30px;
+}
+
+.linkk
+{
+font-family: fantasy;
+color: blueviolet;
+background-color: aquamarine;
+font-size: 50px;
+}
+
+.linkk:hover
+{
+color: black;
+}
+
+.click
+{
+font-family: fantasy;
+color: blueviolet;
+background-color: aquamarine;
+font-size: 50px;
+}
+
+.botao
+{
+background-color: aqua;
+font-family: fantasy;
+font-size: 20px;
+}
+
+.botao:hover
+{
+background-color: black;
+}
+
+.estilomensagem
+{
+font-family: fantasy;
+color: blueviolet;
+background-color: aquamarine;
+font-size: 50px;
+}
